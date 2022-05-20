@@ -25,18 +25,14 @@ Forward ever, backward never.
 [OpenSea](https://opensea.io/collection/foreverbots)
 
 
+<!-- CONTACT -->
+## Contact
 
-<!-- LICENSE -->
-## License
+Twitter - [@0xTDF](https://twitter.com/0xTDF)
 
-Distributed under the MIT License. See `LICENSE` for more information.
+LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-
-
-
-
-
-
+Project Link: [https://github.com/0xTDF/ForeverBots](https://github.com/0xTDF/ForeverBots)
 
 
 
@@ -54,16 +50,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
   
 
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
-<!-- CONTACT -->
-## Contact
 
-Twitter - [@0xTDF](https://twitter.com/0xTDF)
-
-LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
-
-Project Link: [https://github.com/0xTDF/ForeverBots](https://github.com/0xTDF/ForeverBots)
 
 
 
