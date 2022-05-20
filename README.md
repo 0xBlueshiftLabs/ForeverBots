@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="1080" height="300" src="/ForeverBotsBanner.png">
+  <img width="1080" height="330" src="/ForeverBotsBanner.png">
 </p>
 
 
