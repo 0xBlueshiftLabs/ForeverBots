@@ -18,6 +18,8 @@ Forward ever, backward never.
 
 5K unique animated companions on the Ethereum blockchain.
 
+## Links
+
 [Website](https://foreverbots.io/)
 
 [OpenSea](https://opensea.io/collection/foreverbots)
