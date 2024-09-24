@@ -32,7 +32,7 @@ Twitter - [@0xTDF](https://twitter.com/0xTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/0xTDF/ForeverBots](https://github.com/0xTDF/ForeverBots)
+Project Link: [https://github.com/0xBlueshiftLabs/ForeverBots](https://github.com/0xBlueshiftLabs/ForeverBots)
 
 
 
