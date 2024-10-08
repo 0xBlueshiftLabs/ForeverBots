@@ -28,7 +28,7 @@ Forward ever, backward never.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@0xTDF](https://twitter.com/0xTDF)
+Twitter - [@0xElisik](https://twitter.com/0xElisik)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
